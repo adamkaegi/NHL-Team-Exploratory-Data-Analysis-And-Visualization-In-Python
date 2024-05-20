@@ -17,6 +17,6 @@ Some Steps Taken
 - Heat maps
 - Aggregation functions
 
-Note: The file may not preview in github (common issue with jupyter notebooks), try pasting this repositorys url here https://nbviewer.org/
+Note: The file may not preview in github (common issue with jupyter notebooks), try pasting this repository's url here https://nbviewer.org/
 
 Thanks to https://moneypuck.com/data.htm for the data
